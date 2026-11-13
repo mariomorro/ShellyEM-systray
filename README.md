@@ -23,9 +23,9 @@ This software is designed to work with the **Shelly EM (Gen 1)** device and its 
 
 ### Color Coding (CH1)
 The color of the top row (Channel 1) automatically changes based on the measured value:
-- 🟢 **Green**: Negative value (power is being **exported** to the grid / immissione).
-- 🟠 **Orange**: Positive value (power is being **imported** from the grid / prelievo).
-- 🔵 **Light Blue**: Channel 2 (PV Production) is always displayed in light blue.
+- 🟢 **Green**: Negative value (power is being **exported** to the grid).
+- 🟠 **Orange**: Positive value (power is being **imported** from the grid).
+- 🟡 **Gold**: Channel 2 (PV Production) is always displayed in gold.
 
 ## Configuration
 
